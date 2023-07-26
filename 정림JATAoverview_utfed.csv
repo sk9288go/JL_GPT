@@ -63,3 +63,16 @@
 친환경,기존자료 ,http://intra.junglim.com:8080/KMS/KMS03011.jsp?MAP_SN=K201307220034&MAP_NM=기존자료&MAP_LVL=2&HIGH_SN=K201307220009&MAP_TEC_FG=C&PATH_NM=공통기술자료 > 친환경 > 기존자료
 BIM,신규현행자료,http://intra.junglim.com:8080/KMS/KMS03011.jsp?MAP_SN=K201307220036&MAP_NM=신규현행자료&MAP_LVL=2&HIGH_SN=K201307220010&MAP_TEC_FG=C&PATH_NM=공통기술자료 > BIM > 신규현행자료
 BIM,기본교육자료,http://intra.junglim.com:8080/KMS/KMS03011.jsp?MAP_SN=K202001220002&MAP_NM=BIM 기본교육자료&MAP_LVL=2&HIGH_SN=K201307220010&MAP_TEC_FG=C&PATH_NM=공통기술자료 > BIM > BIM 기본교육자료
+예약,회의실예약,https://jis.junglim.com/app/asset/10/list/reservation
+예약,TF실예약,https://jis.junglim.com/app/asset/20/list/reservation
+예약,차량예약,https://jis.junglim.com/app/asset/21/list/reservation
+예약,노트북예약,https://jis.junglim.com/app/asset/22/list/reservation
+예약,전산장비예약,https://jis.junglim.com/app/asset/23/list/reservation
+예약,PC예약,https://jis.junglim.com/app/asset/24/list/reservation
+예약,화상회의장비,https://jis.junglim.com/app/asset/30/list/reservation
+예약,3d프린터,https://jis.junglim.com/app/asset/42/list/reservation
+캘린더,달력,https://jis.junglim.com/app/calendar
+캘린더,일정등록,https://jis.junglim.com/app/calendar/regist
+예약,법인콘도예약신청서,https://jis.junglim.com/app/docs/detail/341?page=0&offset=20&property=completeDate&direction=desc&searchtype=&keyword=&fromDate=&toDate=&duration=all
+예약,개인차량사용신청서,https://jis.junglim.com/app/docs/detail/287?page=0&offset=20&property=completeDate&direction=desc&searchtype=&keyword=&fromDate=&toDate=&duration=all
+
